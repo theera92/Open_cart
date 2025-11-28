@@ -1,0 +1,60 @@
+2025-11-28 12:00:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\Open_cart\Master.xml
+
+2025-11-28 12:19:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\Open_cart\Master.xml
+
+2025-11-28 12:19:35 INFO  LoginTC:20 - **** Starting TC_002_LoginTest  ****
+2025-11-28 12:19:35 INFO  LoginTC:27 - clicked on myaccount link on the home page..
+2025-11-28 12:19:36 INFO  LoginTC:29 - clicked on login link under myaccount..
+2025-11-28 12:19:36 INFO  LoginTC:33 - Entering valid email and password..
+2025-11-28 12:19:36 INFO  LoginTC:37 - clicked on login button..
+2025-11-28 12:19:37 INFO  LoginTC:51 - **** Finished LoginTC  ****
+2025-11-28 12:19:46 INFO  Testcase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-28 12:19:46 INFO  Testcase:21 - Clicked on MyAccount Link.. 
+2025-11-28 12:19:47 INFO  Testcase:23 - Clicked on Register Link.. 
+2025-11-28 12:19:47 INFO  Testcase:25 - Providing customer details...
+2025-11-28 12:19:50 INFO  Testcase:38 - Validating expected message..
+2025-11-28 12:19:50 INFO  Testcase:42 - Test passed
+2025-11-28 12:19:50 INFO  Testcase:51 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-28 12:20:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\Open_cart\Master.xml
+
+2025-11-28 12:20:27 INFO  LoginTC:20 - **** Starting TC_002_LoginTest  ****
+2025-11-28 12:20:28 INFO  LoginTC:27 - clicked on myaccount link on the home page..
+2025-11-28 12:20:29 INFO  LoginTC:29 - clicked on login link under myaccount..
+2025-11-28 12:20:29 INFO  LoginTC:33 - Entering valid email and password..
+2025-11-28 12:20:29 INFO  LoginTC:37 - clicked on login button..
+2025-11-28 12:20:30 INFO  LoginTC:51 - **** Finished LoginTC  ****
+2025-11-28 12:20:37 INFO  Testcase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-28 12:20:38 INFO  Testcase:21 - Clicked on MyAccount Link.. 
+2025-11-28 12:20:38 INFO  Testcase:23 - Clicked on Register Link.. 
+2025-11-28 12:20:38 INFO  Testcase:25 - Providing customer details...
+2025-11-28 12:20:39 INFO  Testcase:38 - Validating expected message..
+2025-11-28 12:20:40 INFO  Testcase:42 - Test passed
+2025-11-28 12:20:40 INFO  Testcase:51 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-28 12:31:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\Open_cart\Master.xml
+
+2025-11-28 12:31:37 INFO  LoginTC:20 - **** Starting TC_002_LoginTest  ****
+2025-11-28 12:31:37 INFO  LoginTC:27 - clicked on myaccount link on the home page..
+2025-11-28 12:31:38 INFO  LoginTC:29 - clicked on login link under myaccount..
+2025-11-28 12:31:38 INFO  LoginTC:33 - Entering valid email and password..
+2025-11-28 12:31:38 INFO  LoginTC:37 - clicked on login button..
+2025-11-28 12:31:39 INFO  LoginTC:51 - **** Finished LoginTC  ****
+2025-11-28 12:36:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\Open_cart\Master.xml
+
+2025-11-28 12:37:03 INFO  LoginTC:20 - **** Starting TC_002_LoginTest  ****
+2025-11-28 12:37:03 INFO  LoginTC:27 - clicked on myaccount link on the home page..
+2025-11-28 12:37:04 INFO  LoginTC:29 - clicked on login link under myaccount..
+2025-11-28 12:37:04 INFO  LoginTC:33 - Entering valid email and password..
+2025-11-28 12:37:04 INFO  LoginTC:37 - clicked on login button..
+2025-11-28 12:37:05 INFO  LoginTC:51 - **** Finished LoginTC  ****
+2025-11-28 12:37:12 INFO  Testcase:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-28 12:37:13 INFO  Testcase:21 - Clicked on MyAccount Link.. 
+2025-11-28 12:37:13 INFO  Testcase:23 - Clicked on Register Link.. 
+2025-11-28 12:37:13 INFO  Testcase:25 - Providing customer details...
+2025-11-28 12:37:15 INFO  Testcase:38 - Validating expected message..
+2025-11-28 12:37:15 INFO  Testcase:42 - Test passed
+2025-11-28 12:37:15 INFO  Testcase:51 - ***** Finished TC001_AccountRegistrationTest *****
